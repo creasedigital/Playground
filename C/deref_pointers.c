@@ -9,7 +9,7 @@ int main()
 
 
 
-    printf("%d\n", *pAge);
+    printf("%dn\n", *pAge);
 
     return (0);
 }
